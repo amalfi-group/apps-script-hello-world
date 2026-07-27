@@ -21,6 +21,13 @@ flow end to end.
 TypeScript in `src/` is bundled by Rollup into `dist/` and pushed with clasp.
 Only top-level functions in `src/index.ts` are callable from Apps Script.
 
+### GAS Projects
+
+| Environment | Script |
+| --- | --- |
+| development | [script.google.com/d/1jIWV5qNtL0a4MhEGxvNdNSrvp_z_HyyVreWMckHDHMqjB3OVvATrh3Yj](https://script.google.com/d/1jIWV5qNtL0a4MhEGxvNdNSrvp_z_HyyVreWMckHDHMqjB3OVvATrh3Yj/edit) |
+| production | [script.google.com/d/1ZpDZZLdsQnuNlCYQGkZ70NrRxpg8D8BLz7hSGKUqQqV1QL2IA--z4Hta](https://script.google.com/d/1ZpDZZLdsQnuNlCYQGkZ70NrRxpg8D8BLz7hSGKUqQqV1QL2IA--z4Hta/edit) |
+
 ## Credentials (keyless CI)
 
 CI holds **no long-lived clasp secrets**. At deploy time the workflow

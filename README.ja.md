@@ -20,6 +20,13 @@ hello-world の挨拶を返すだけ — 同時に、キーレス CI/CD 認証�
 `src/` の TypeScript を Rollup で `dist/` にバンドルし、clasp で push
 します。Apps Script から呼べるのは `src/index.ts` のトップレベル関数のみです。
 
+### GAS プロジェクト
+
+| 環境 | スクリプト |
+| --- | --- |
+| development | [script.google.com/d/1jIWV5qNtL0a4MhEGxvNdNSrvp_z_HyyVreWMckHDHMqjB3OVvATrh3Yj](https://script.google.com/d/1jIWV5qNtL0a4MhEGxvNdNSrvp_z_HyyVreWMckHDHMqjB3OVvATrh3Yj/edit) |
+| production | [script.google.com/d/1ZpDZZLdsQnuNlCYQGkZ70NrRxpg8D8BLz7hSGKUqQqV1QL2IA--z4Hta](https://script.google.com/d/1ZpDZZLdsQnuNlCYQGkZ70NrRxpg8D8BLz7hSGKUqQqV1QL2IA--z4Hta/edit) |
+
 ## 認証情報(キーレス CI)
 
 CI は **clasp の長期シークレットを一切保持しません**。デプロイ時に
