@@ -24,8 +24,8 @@ hello-world の挨拶を返すだけ — 同時に、キーレス CI/CD 認証�
 
 | 環境 | スクリプト |
 | --- | --- |
-| development | [script.google.com/d/1jIWV5qNtL0a4MhEGxvNdNSrvp_z_HyyVreWMckHDHMqjB3OVvATrh3Yj](https://script.google.com/d/1jIWV5qNtL0a4MhEGxvNdNSrvp_z_HyyVreWMckHDHMqjB3OVvATrh3Yj/edit) |
-| production | [script.google.com/d/1ZpDZZLdsQnuNlCYQGkZ70NrRxpg8D8BLz7hSGKUqQqV1QL2IA--z4Hta](https://script.google.com/d/1ZpDZZLdsQnuNlCYQGkZ70NrRxpg8D8BLz7hSGKUqQqV1QL2IA--z4Hta/edit) |
+| development | [script.google.com/d/1pqOIAwMX8TelAY47GfcPZluTLFW3ioGBTnXVffr_BVzsQoHJhDYMxpLq](https://script.google.com/d/1pqOIAwMX8TelAY47GfcPZluTLFW3ioGBTnXVffr_BVzsQoHJhDYMxpLq/edit) |
+| production | [script.google.com/d/1HQJM7HR13mtZMTyvv9PTcnT1P8SmqemInmSwv7LI4xwZgUP5sZ3OIVac](https://script.google.com/d/1HQJM7HR13mtZMTyvv9PTcnT1P8SmqemInmSwv7LI4xwZgUP5sZ3OIVac/edit) |
 
 ## 認証情報(キーレス CI)
 
